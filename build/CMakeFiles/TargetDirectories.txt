@@ -1,3 +1,0 @@
-/home/starry/Lab/2dGALAXY/build/CMakeFiles/edit_cache.dir
-/home/starry/Lab/2dGALAXY/build/CMakeFiles/demo.dir
-/home/starry/Lab/2dGALAXY/build/CMakeFiles/rebuild_cache.dir
