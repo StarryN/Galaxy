@@ -3,6 +3,8 @@ This repository contains the implementation of 2D version of **Galaxy**, which g
 
 
 _An example of output:_
+
+
 ![ptcl](./demo.png)
 
 ## Dependencies
