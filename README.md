@@ -1,5 +1,5 @@
 # Generating Large Convex Polytopes Directly on Point Clouds (2D)
-This repository contains the implementation of 2D version of **Galaxy**, which generate polyhedrons efficiently on point clouds.
+This repository contains the implementation of 2D version of **Galaxy**, which generate point-free polyhedrons efficiently on point clouds.
 
 
 _An example of output:_
